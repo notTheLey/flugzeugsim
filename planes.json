@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "type": "Boeing 737",
+    "speed": 800,
+    "block_time": 5,
+    "passengers": 180,
+    "start_coords": [100, 50, 100]
+  },
+  {
+    "id": 2,
+    "type": "Airbus A320",
+    "speed": 750,
+    "block_time": 7,
+    "passengers": 160,
+    "start_coords": [-400, 400, 150]
+  },
+  {
+    "id": 3,
+    "type": "Cesna 173",
+    "speed": 400,
+    "block_time": 2,
+    "passengers": 4,
+    "start_coords": [200, -490, 50]
+  },
+  {
+    "id": 4,
+    "type": "Cesna 173",
+    "speed": 400,
+    "block_time": 2,
+    "passengers": 4,
+    "start_coords": [200, -500, 50]
+  }
+]
